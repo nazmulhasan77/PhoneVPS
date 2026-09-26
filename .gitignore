@@ -1,0 +1,17 @@
+# Logs & temporary files
+*.log
+logs/
+tmp/
+pma_tmp/
+*.tar.gz
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+package-lock.json
+
+# Environment
+.env
